@@ -77,7 +77,7 @@ __ "This classification has been categorized and clarified
 │   │   │   │   │   ├── Feature Films
 │   │   │   │   │   ├── Film Trailers
 │   │   │   │   │   ├── Short Films
-│   │   │   │   │   ├── Web Series
+│   │   │   │   │   └── Web Series
 │   │   │   │   ├── Social Media Edits 
 │   │   │   │   │   ├── Carousels
 │   │   │   │   │   ├── Clips
