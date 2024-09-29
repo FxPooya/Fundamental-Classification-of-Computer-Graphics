@@ -1,0 +1,356 @@
+
+
+
+  Fundamental Classification of Core Principles in Computer Graphics
+
+__ "This classification has been categorized and clarified
+    to assist in apprehending the complex and advanced
+    aspects of computer visualizations and graphics."
+
+
+
+"Computer Graphics"
+├── Video (4D)
+│   ├── Animations 
+│   │   ├── Styles <D°>
+│   │   │   ├── Physical Object
+│   │   │   │   ├── Clay 
+│   │   │   │   ├── Cut-Out 
+│   │   │   │   ├── Mechanical 
+│   │   │   │   ├── Object 
+│   │   │   │   ├── Pixilation 
+│   │   │   │   ├── Puppet 
+│   │   │   │   └── Stop Motion 
+│   │   │   ├── Virtual Animations 
+│   │   │   │   ├── Motion Graphics 
+│   │   │   │   │   ├── Flat motions
+│   │   │   │   │   ├── Icon motions
+│   │   │   │   │   ├── Infographics
+│   │   │   │   │   ├── Logo motions
+│   │   │   │   │   ├── Typography 
+│   │   │   │   └── Standard Animation 
+│   │   │   └──
+│   │   └──           
+│   ├── Components
+│   │   ├── Animation Software
+│   │   │   ├── Adobe Animate
+│   │   │   ├── After Effects
+│   │   │   ├── Blender
+│   │   │   ├── Cinema 4D 
+│   │   │   ├── Houdini
+│   │   │   ├── Maya
+│   │   │   ├── Moho (Anime Studio)
+│   │   │   ├── OpenToonz
+│   │   │   ├── Synfig Studio
+│   │   │   ├── Toon Boom Harmony
+│   │   │   └── 3D Max
+│   │   ├── Animation Workflow
+│   │   │   ├── Adjustment
+│   │   │   ├── Animating
+│   │   │   ├── Character Design
+│   │   │   ├── Compositing
+│   │   │   ├── Lighting
+│   │   │   ├── Modeling
+│   │   │   ├── Rendering
+│   │   │   ├── Sound Design
+│   │   │   ├── Storyboard
+│   │   │   ├── Texture Painting
+│   │   │   ├── Visual Effects (VFX)
+│   │   │   └── Voice Acting
+│   │   ├── Edits
+│   │   │   ├── Styles <D°>
+│   │   │   │   ├── Advertising Edits 
+│   │   │   │   │   ├── Ads for Social Media
+│   │   │   │   │   ├── Brand Ads
+│   │   │   │   │   ├── Commercials
+│   │   │   │   │   ├── Corporate Videos
+│   │   │   │   │   ├── Explainer Videos
+│   │   │   │   │   ├── Influencer Collaborations
+│   │   │   │   │   ├── Online Ads
+│   │   │   │   │   ├── Product Demos
+│   │   │   │   │   ├── Promo Videos
+│   │   │   │   │   ├── Sponsored Content
+│   │   │   │   │   └── Viral Marketing Videos
+│   │   │   │   ├── Film Edits 
+│   │   │   │   │   ├── Documentaries
+│   │   │   │   │   ├── Experimental Films
+│   │   │   │   │   ├── Feature Films
+│   │   │   │   │   ├── Film Trailers
+│   │   │   │   │   ├── Short Films
+│   │   │   │   │   ├── Web Series
+│   │   │   │   ├── Social Media Edits 
+│   │   │   │   │   ├── Carousels
+│   │   │   │   │   ├── Clips
+│   │   │   │   │   ├── Livestreams
+│   │   │   │   │   ├── Posts
+│   │   │   │   │   ├── Reels
+│   │   │   │   │   ├── Short-form Videos
+│   │   │   │   │   ├── Stories
+│   │   │   │   │   └── Videos (Long-form)
+│   │   │   ├── Components
+│   │   │   │   ├── Editing Softwares
+│   │   │   │   │   ├── Adobe Premiere Pro
+│   │   │   │   │   ├── Avid Media Composer
+│   │   │   │   │   ├── Camtasia Studio
+│   │   │   │   │   ├── DaVinci Resolve
+│   │   │   │   │   ├── Final Cut Pro
+│   │   │   │   │   ├── Filmora
+│   │   │   │   │   ├── HitFilm Express
+│   │   │   │   │   ├── iMovie
+│   │   │   │   │   ├── Lightworks
+│   │   │   │   │   └── Sony Vegas Pro
+│   │   │   │   ├── Editing Workflow
+│   │   │   │   │   ├── Assembly
+│   │   │   │   │   ├── Cutting
+│   │   │   │   │   ├── Color Grading
+│   │   │   │   │   ├── Color Corrections
+│   │   │   │   │   ├── Compositing
+│   │   │   │   │   ├── Editing
+│   │   │   │   │   ├── Exporting
+│   │   │   │   │   ├── Feedback Loop
+│   │   │   │   │   ├── Sound Editing
+│   │   │   │   │   ├── Transitions
+│   │   │   │   │   └── Visual Effects (VFX)
+│   │   ├── Created Contents (Videography)
+│   │   │   ├── Types of Content
+│   │   │   │   ├── Commercial
+│   │   │   │   ├── Corporate Videos
+│   │   │   │   ├── Documentary
+│   │   │   │   ├── Event Coverage
+│   │   │   │   ├── Feature Films
+│   │   │   │   ├── Short Films
+│   │   │   │   ├── Music Videos
+│   │   │   │   └── Social Media Videos
+│   │   │   ├── Production Elements
+│   │   │   │   ├── Casting
+│   │   │   │   │   ├── Auditions
+│   │   │   │   │   ├── Callbacks
+│   │   │   │   │   └── Talent Agencies
+│   │   │   │   ├── Costumes
+│   │   │   │   │   ├── Design
+│   │   │   │   │   ├── Fittings
+│   │   │   │   │   └── Wardrobe
+│   │   │   │   ├── Location
+│   │   │   │   │   ├── Accessibility
+│   │   │   │   │   ├── Permits
+│   │   │   │   │   └── Scouting
+│   │   │   │   ├── Props
+│   │   │   │   │   ├── Acquisition
+│   │   │   │   │   ├── Design
+│   │   │   │   │   └── Storage
+│   │   │   │   ├── Script
+│   │   │   │   │   ├── Drafts
+│   │   │   │   │   ├── Revisions
+│   │   │   │   │   └── Treatment
+│   │   │   │   ├── Set Design
+│   │   │   │   │   ├── Concept Art
+│   │   │   │   │   ├── Construction
+│   │   │   │   │   └── Decoration
+│   │   │   │   ├── Sound
+│   │   │   │   │   ├── Dialogue Recording
+│   │   │   │   │   ├── Music Scoring
+│   │   │   │   │   └── Sound Effects
+│   │   │   │   ├── Technical Aspects
+│   │   │   │   │   ├── Camera Equipment
+│   │   │   │   │   ├── Editing Software
+│   │   │   │   │   └── Lighting
+│   │   │   │   ├── Visual Effects (VFX)
+│   │   │   │   │   ├── CGI
+│   │   │   │   │   ├── Compositing
+│   │   │   │   │   └── Motion Capture
+│   │   │   │   └──
+│   │   │   └──
+│   │   └──
+│   └──
+├── Image (3D)
+│   ├── Created Contents (Photography)
+│   │   ├── Equipment
+│   │   │   ├── Cameras
+│   │   │   ├── Drones
+│   │   │   ├── Lenses
+│   │   │   ├── Lighting gear
+│   │   │   └── Tripods
+│   │   ├── Marketing and Distribution
+│   │   │   ├── Advertising
+│   │   │   ├── Brand Partnerships
+│   │   │   ├── Content Licensing
+│   │   │   ├── Online Platforms
+│   │   │   ├── Portfolio Building
+│   │   │   ├── Social Media Marketing
+│   │   │   ├── Stock Photography
+│   │   │   └── Target Audience Analysis
+│   │   ├── Post-Processing
+│   │   │   │   ├── Adjustment
+│   │   │   │   ├── Cropping
+│   │   │   │   ├── Exporting
+│   │   │   │   ├── Noise Reduction
+│   │   │   │   ├── Resizing
+│   │   │   │   ├── Retouching
+│   │   │   │   └── Sharpening
+│   │   ├── Types of Photography
+│   │   │   ├── Aerial
+│   │   │   ├── Architectural
+│   │   │   ├── Astrophotography
+│   │   │   ├── Black and White
+│   │   │   ├── Candid
+│   │   │   ├── Commercial
+│   │   │   ├── Documentary
+│   │   │   ├── Fashion
+│   │   │   ├── Fine Art
+│   │   │   ├── Food
+│   │   │   ├── Landscape
+│   │   │   ├── Macro
+│   │   │   ├── Portrait
+│   │   │   ├── Sports
+│   │   │   ├── Street
+│   │   │   ├── Travel
+│   │   │   ├── Underwater
+│   │   │   ├── Wedding
+│   │   │   └── Wildlife
+│   │   ├── Techniques
+│   │   │   ├── Bokeh
+│   │   │   ├── Double Exposure
+│   │   │   ├── Forced Perspective
+│   │   │   ├── High Dynamic Range (HDR)
+│   │   │   ├── Long Exposure
+│   │   │   ├── Low Light
+│   │   │   ├── Panning
+│   │   │   ├── Perspective Control
+│   │   │   ├── Rule of Thirds
+│   │   │   ├── Time-lapse
+│   │   │   ├── Tilt-shift
+│   │   │   └── Zoom Burst
+│   ├── Illustration
+│   │   ├── Types of Illustration <D°>
+│   │   │   ├── Abstract
+│   │   │   ├── Geometric
+│   │   │   ├── Isometric
+│   │   │   ├── Line Art
+│   │   │   ├── Low-Poly
+│   │   │   ├── Minimalism
+│   │   │   ├── Photorealistic
+│   │   │   ├── Pixel Art
+│   │   │   ├── Realism
+│   │   │   ├── Sketch
+│   │   │   ├── Stylized
+│   │   │   ├── Surrealism
+│   │   │   └── Vector Art
+│   │   ├── Illustartion Elements
+│   │   │   ├── Illustrating Softwares
+│   │   │   │   ├── Affinity Designer
+│   │   │   │   ├── Adobe Illustrator
+│   │   │   │   ├── Clip Studio Paint
+│   │   │   │   ├── CorelDRAW
+│   │   │   │   ├── Inkscape
+│   │   │   │   ├── Krita
+│   │   │   │   ├── Procreate
+│   │   │   │   └── Sketch
+│   │   │   ├── Illustarting Workflow
+│   │   │   │   ├── Coloring
+│   │   │   │   ├── Compositing
+│   │   │   │   ├── Layering
+│   │   │   │   ├── Fonts & Typefaces
+│   │   │   │   ├── Outlining
+│   │   │   │   ├── Rendering
+│   │   │   │   ├── Shading
+│   │   │   │   ├── Sketching
+│   │   │   │   ├── Texturing
+│   │   │   │   └── Vectorization
+│   │   │   └──
+│   │   └──
+│   ├── Image Edits
+│   │   ├── Styles <D°>
+│   │   │   ├── Artistic Edits
+│   │   │   ├── Documentary Edits
+│   │   │   ├── Fashion Edit
+│   │   │   ├── Fine Art Edit
+│   │   │   ├── Portrait Edits
+│   │   │   └── Surreal Edits
+│   │   ├── Editing Image Elements
+│   │   │   ├── Editing Softwares
+│   │   │   │   ├── Adobe Photoshop
+│   │   │   │   ├── Affinity Photo
+│   │   │   │   ├── Corel PaintShop Pro
+│   │   │   │   ├── GIMP
+│   │   │   │   ├── Luminar
+│   │   │   │   ├── Paint.NET
+│   │   │   │   ├── Pixlr
+│   │   │   │   ├── Snapseed
+│   │   │   │   ├── Lightroom
+│   │   │   │   └── Capture One
+│   │   │   ├── Editing Workflow
+│   │   │   │   ├── Adjustment
+│   │   │   │   ├── Cropping
+│   │   │   │   ├── Filters
+│   │   │   │   ├── Overlay Elements
+│   │   │   │   ├── Retouching
+│   │   │   │   └── Restoration 
+│   │   │   └──
+│   │   └──
+│   └──
+├── Sound (Complementary Element)
+│   ├── Created Sound
+│   │   ├── Types
+│   │   │   ├── Music
+│   │   │   │   ├── Ambient
+│   │   │   │   ├── Classical
+│   │   │   │   ├── Drum & Bass
+│   │   │   │   ├── Dubstep
+│   │   │   │   ├── Electronic
+│   │   │   │   ├── House
+│   │   │   │   ├── Trance
+│   │   │   │   ├── Techno
+│   │   │   │   ├── Hip-Hop
+│   │   │   │   ├── Jazz
+│   │   │   │   ├── Metal
+│   │   │   │   ├── Pop
+│   │   │   │   ├── Punk Rock
+│   │   │   │   ├── R&B
+│   │   │   │   ├── Rock
+│   │   │   │   └── Soundtracks
+│   │   │   ├── Sound Effects
+│   │   │   │   ├── Animal Sounds
+│   │   │   │   ├── Environmental Sounds
+│   │   │   │   ├── Explosions
+│   │   │   │   ├── Footsteps
+│   │   │   │   ├── Futuristic & Sci-Fi Effects
+│   │   │   │   ├── Impact Sounds
+│   │   │   │   ├── Mechanical Sounds
+│   │   │   │   ├── Musical Sound Effects
+│   │   │   │   ├── Nature Sounds
+│   │   │   │   ├── Vehicle Sounds
+│   │   │   │   ├── Weapon Sounds
+│   │   │   │   └── Whooshes & Swishes
+│   │   ├── Components
+│   │   │   ├── Audio Libraries
+│   │   │   │   ├── Audio Samples Libraries
+│   │   │   │   ├── Virtual Instruments
+│   │   │   ├── Sound Creation Tools
+│   │   │   │   ├── Digital Audio Workstations (DAWs)
+│   │   │   │   ├── Sound Design Tools
+│   │   │   │   ├── Synthesizer Modules
+│   │   │   ├── Sound Control & Effects
+│   │   │   │   ├── Effects Processors
+│   │   │   │   ├── MIDI Controllers
+│   ├── Recorded Sound
+│   │   ├── Types
+│   │   │   ├── Ambient Sounds
+│   │   │   ├── Foley Sounds
+│   │   │   ├── Live Recordings
+│   │   │   ├── Location Sound
+│   │   │   └── Voiceover
+│   │   ├── Components
+│   │   │   ├── Dialogue
+│   │   │   ├── Field Recordings
+│   │   │   ├── Instrument Recordings
+│   │   │   ├── Natural Sounds
+│   │   │   ├── Room Tone
+│   │   │   └── Sound Effects
+│   │   └── 
+│   └── 
+└── 
+
+
+This project has been created by:
+          
+         " @FxPooya "
