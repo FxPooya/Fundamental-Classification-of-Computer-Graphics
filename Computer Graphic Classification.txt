@@ -324,14 +324,14 @@ __ "This classification has been categorized and clarified
 │   │   ├── Components
 │   │   │   ├── Audio Libraries
 │   │   │   │   ├── Audio Samples Libraries
-│   │   │   │   ├── Virtual Instruments
+│   │   │   │   └── Virtual Instruments
 │   │   │   ├── Sound Creation Tools
 │   │   │   │   ├── Digital Audio Workstations (DAWs)
 │   │   │   │   ├── Sound Design Tools
-│   │   │   │   ├── Synthesizer Modules
+│   │   │   │   └── Synthesizer Modules
 │   │   │   ├── Sound Control & Effects
 │   │   │   │   ├── Effects Processors
-│   │   │   │   ├── MIDI Controllers
+│   │   │   │   └── MIDI Controllers
 │   ├── Recorded Sound
 │   │   ├── Types
 │   │   │   ├── Ambient Sounds
