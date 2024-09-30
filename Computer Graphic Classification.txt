@@ -7,6 +7,12 @@ __ "This classification has been categorized and clarified
     to assist in apprehending the complex and advanced
     aspects of computer visualizations and graphics."
 
+Nessecary Point:
+The <D°> indicates "Dimensional Mastery". It means that the category which contains this,
+has the subcategories that they can be in 2d style or 3d style in visualizations.
+For instance, <Animation Styles <D°>> means there is to type of animation at least
+involved: 2D Animations & 3D Animations >> *D°*
+
 
 
 "Computer Graphics"
