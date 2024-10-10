@@ -2,6 +2,7 @@
 
 
   Fundamental Classification of Core Principles in Computer Graphics
+  (Basic)
 
 __ "This classification has been categorized and clarified
     to assist in apprehending the complex and advanced
